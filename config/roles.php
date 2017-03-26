@@ -28,6 +28,10 @@ return [
 
     'separator' => '.',
 
+    'permission_role_table' => 'permission_role',
+
+    'permission_user_table' => 'permission_user',
+
     /*
     |--------------------------------------------------------------------------
     | Models
